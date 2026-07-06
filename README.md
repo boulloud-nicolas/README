@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/ton-image.png" alt="Banner
+logo.png
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web/game development.
 
