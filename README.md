@@ -1,4 +1,4 @@
-<img src="favicon-180.png" alt="Logo" width="150">
+<img src="https://raw.githubusercontent.com/UnsoberDriver/UnsoberDriver/main/favicon-180.png" alt="Logo" width="150">
 
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web/game development.
