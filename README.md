@@ -6,7 +6,7 @@ My portfolio :
 
 My personnal projects :
 - [NexusHub](https://nexushub.alwaysdata.net/)
-- Home Kitchen Club
+- [Home Kitchen Club](https://homekitchenclub.alwaysdata.net/#)
 
 My school projects :
 - [Voting system](https://sae203-nb.alwaysdata.net/)
